@@ -9,4 +9,4 @@
 ### Cenário  
 * **Volatilidade diária**: As previsões usam dados capturados no momento da execução. Por isso, podem variar ao longo do mês.
   
-* **Bloqueio no Estreito de Hormuz**: Fluxo de mercadorias considerado zero a partir de mar/26, por tempo indeterminado. Esse cenário é aplicado a todas as previsões.  
+* **Bloqueio no Estreito de Hormuz**: A partir de março/26 o fluxo de mercadorias nesse estreito esta sendo considerado zero, por tempo indeterminado. Esse cenário é considerado por todas as previsões emitidas.  
