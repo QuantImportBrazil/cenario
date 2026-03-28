@@ -8,19 +8,17 @@
 
 ## Resumo Executivo  
 
-Este cenário incorpora um choque exógeno relevante ao comércio global: a interrupção total e por prazo indeterminado do fluxo de mercadorias no Estreito de Hormuz, a partir de março de 2026.  
+Volatilidade diária: Preços e variáveis macroeconômicas são capturados no momento da emissão, podendo gerar ajustes ao longo do mês.
 
-As projeções são construídas com base em dados de mercado observados no momento da execução, refletindo as condições correntes de preços e volatilidade. Dessa forma, os resultados devem ser interpretados como sensíveis ao momento de coleta dos dados.  
+Bloqueios físicos: O fluxo no Estreito de Hormuz é considerado nulo por prazo indeterminado (mar/26). Além disso, eventos como danos a plantas de fertilizantes mostram que restrições físicas de oferta podem ocorrer independentemente de preços ou indicadores.
 
----
+Limitações do modelo: Choques físicos extremos — especialmente em produção e logística — podem não ser totalmente capturados pelos dados.
 
-### Cenário  
+Previsão sob incerteza: Mesmo com menor previsibilidade, decisões precisam ser tomadas. A modelagem não elimina a incerteza, mas a organiza, tornando o risco mais explícito.
 
-* **Volatilidade diária**: As estimativas utilizam dados capturados em tempo real, podendo apresentar variações ao longo do mês conforme a dinâmica dos mercados.  
+“Plans are useless, but planning is indispensable.” — Dwight D. Eisenhower  
 
-* **Bloqueio no Estreito de Hormuz**: Assume-se interrupção integral do fluxo de mercadorias nesse ponto estratégico, com efeitos persistentes sobre cadeias globais de energia, fertilizantes e commodities agrícolas. Essa premissa é aplicada de forma uniforme em todas as simulações.  
-
----
+---  
 
 ### Valores de referência utilizados na emissão das previsões  
 
